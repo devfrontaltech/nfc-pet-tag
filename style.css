@@ -374,3 +374,7 @@
   .mas-info a:hover {
     text-decoration: underline;
   }
+
+  body {
+    padding-bottom: 80px;
+  }
