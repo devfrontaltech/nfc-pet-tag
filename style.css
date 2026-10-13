@@ -361,20 +361,12 @@
   }
   .error { padding: 120px 24px; text-align: center; color: var(--text-muted); font-size: 15px; line-height: 1.6; }
 
-  .mas-info {
-    text-align: center;
-    padding: 1.5rem 1rem 2rem;
-  }
-  .mas-info a {
-    color: #2D6A4F;
-    font-size: .85rem;
+  .footer a {
+    color: var(--green-sage);
     font-weight: 600;
     text-decoration: none;
   }
-  .mas-info a:hover {
+  
+  .footer a:hover {
     text-decoration: underline;
-  }
-
-  body {
-    padding-bottom: 80px;
   }
