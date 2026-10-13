@@ -346,6 +346,7 @@
     padding: 20px;
     font-size: 13px;
     color: var(--text-muted);
+    margin-bottom: 90px;
   }
 
   .footer span { font-family: 'Fraunces', serif; font-style: italic; }
